@@ -4,10 +4,14 @@
 
 > these are necessary for basic usability
 
-## Should-Haves
+- [ ] As a user I want to see an search bar
+  - _the page has an easily visible search bar_
 
-> these will complete the user experience, but are not necessary
+## Should-Haves
 
 ## Could-Haves
 
 > would be really cool ... if there's time
+
+- [ ] As a user I want to see pages with a modern design stash\_
+  - _work more on the style of the page to give it a more attractive design_
